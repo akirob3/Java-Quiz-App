@@ -11,7 +11,7 @@ public class QuestionService
     {
         question[0] = new Questions(1,"whats the language that is object oriented?. ","java","python","cpp","java");
         question[1] = new Questions(2,"what is the language that is used for ML?. ","java","python","cpp","python");
-         question[2] = new Questions(2,"what was the language tool pubg was build with?. ","java","python","cpp","cpp");
+         question[2] = new Questions(3,"what was the language tool pubg was build with?. ","java","python","cpp","cpp");
         
     }
 
